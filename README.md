@@ -1,4 +1,4 @@
-# Learning Enthusiasts Hub: Share, Collaborate, and Grow Together
+# Code_Together
 
 Welcome to the Learning Enthusiasts Hub repository! This repository is designed as a dedicated space for learners of all backgrounds and interests to engage in discussions, share knowledge, seek guidance, and inspire each other's learning journeys.
 
