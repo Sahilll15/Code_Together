@@ -43,7 +43,8 @@ module.exports = (scope) => (req, res, next) => {
 };
 
 
-// and change routes/tasks.js var express = require('express');
+// and change routes/tasks.js 
+var express = require('express');
 var router = express.Router();
 var tasksController = require('../controllers/tasks.controller');
 var middleware = require('../middleware');
